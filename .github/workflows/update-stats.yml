@@ -2,14 +2,12 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 9 * * 1'   # every Monday 09:00 UTC (bi-weekly via skip logic below)
-  workflow_dispatch:        # manual trigger
+    - cron: '0 9 1,15 * *'  # 1st and 15th of each month at 09:00 UTC (bi-weekly)
+  workflow_dispatch:          # manual trigger
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-    # Run every other Monday: week number mod 2 == 0
-    if: github.event_name == 'workflow_dispatch' || fromJSON(format('{0}', github.run_number)) % 2 == 0 || true
     permissions:
       contents: write
 
