@@ -8,9 +8,9 @@
 
 | | Project | What | Stack | Status |
 |---|---------|------|-------|--------|
-| 🎮 | [Dhamaka Blocks](https://github.com/kavyabarnadhya/dhamaka-blocks) | Indian block puzzle game · <!-- STATS:dhamaka-commits -->377 commits<!-- /STATS:dhamaka-commits --> · <!-- STATS:dhamaka-version -->v2.0.1<!-- /STATS:dhamaka-version --> · 52 testers · 177 countries | Flutter · Dart · Flame · AdMob | [Live on Google Play](https://play.google.com/store/apps/details?id=com.dhamakagames.dhamakablocks) |
+| 🎮 | [Dhamaka Blocks](https://github.com/kavyabarnadhya/dhamaka-blocks) | Indian block puzzle game · <!-- STATS:dhamaka-commits -->393 commits<!-- /STATS:dhamaka-commits --> · <!-- STATS:dhamaka-version -->v2.0.1<!-- /STATS:dhamaka-version --> · 52 testers · 177 countries | Flutter · Dart · Flame · AdMob | [Live on Google Play](https://play.google.com/store/apps/details?id=com.dhamakagames.dhamakablocks) |
 | 🤖 | [AI Influencer](https://github.com/kavyabarnadhya/ai-influencer) | Local pipeline for photorealistic AI creator personas with face-locked LoRAs | Python · ComfyUI · LoRA · FastMCP | Active |
-| 📰 | [UPSC News Digest](https://github.com/kavyabarnadhya/upsc-news-digest) | Daily AI-curated news digest · 21 articles/day · last run <!-- STATS:upsc-last-run -->2026-05-18<!-- /STATS:upsc-last-run --> | Python · Groq LLaMA 3.3 70B · GitHub Actions | Live |
+| 📰 | [UPSC News Digest](https://github.com/kavyabarnadhya/upsc-news-digest) | Daily AI-curated news digest · 21 articles/day · last run <!-- STATS:upsc-last-run -->2026-06-01<!-- /STATS:upsc-last-run --> | Python · Groq LLaMA 3.3 70B · GitHub Actions | Live |
 
 ---
 
