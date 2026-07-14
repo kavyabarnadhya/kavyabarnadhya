@@ -36,6 +36,7 @@
 ![Jira](https://img.shields.io/badge/Jira-1F3864?style=flat-square&logo=jira)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-1F3864?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-1F3864?style=flat-square&logo=figma)
+![Make](https://img.shields.io/badge/Make.com-1F3864?style=flat-square&logo=make)
 
 ---
 
