@@ -12,6 +12,7 @@
 | 🤖 | [AI Influencer](https://github.com/kavyabarnadhya/ai-influencer) | Local pipeline for photorealistic AI creator personas with face-locked LoRAs | Python · ComfyUI · LoRA · FastMCP | Active |
 | 📰 | [UPSC News Digest](https://github.com/kavyabarnadhya/upsc-news-digest) | Daily AI-curated news digest · 21 articles/day · last run <!-- STATS:upsc-last-run -->2026-07-01<!-- /STATS:upsc-last-run --> | Python · Groq LLaMA 3.3 70B · GitHub Actions | Live |
 | 🎛️ | [Hiver Macros](https://github.com/kavyabarnadhya/hiver-macros) | PM assignment prototype — shared-inbox macro automation with bulk triage, agent suggestions, undo, and unedited-rate analytics | React · Vite · JavaScript | [Live Demo](https://hiver-macros.vercel.app) |
+| 💳 | [Tekion Payment Link Workflow](https://github.com/kavyabarnadhya/tekion-pm-assignment) | PM assignment prototype — dealership payment link orchestration, built and tested end-to-end in Make.com | Make.com · Webhooks · REST APIs | [Live Demo](https://tekion-payment-link-workflow.vercel.app) |
 
 ---
 
@@ -35,6 +36,7 @@
 ![Jira](https://img.shields.io/badge/Jira-1F3864?style=flat-square&logo=jira)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-1F3864?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-1F3864?style=flat-square&logo=figma)
+![Make](https://img.shields.io/badge/Make.com-1F3864?style=flat-square&logo=make)
 
 ---
 
