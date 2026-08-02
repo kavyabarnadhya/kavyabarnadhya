@@ -30,6 +30,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-1F3864?style=flat-square&logo=flutter)
 ![Python](https://img.shields.io/badge/Python-1F3864?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/React-1F3864?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-1F3864?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F3864?style=flat-square&logo=typescript)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F3864?style=flat-square&logo=githubactions)
 
 **PM Tools:** &nbsp;
@@ -43,7 +45,7 @@
 
 ## About
 
-PM with 5 years building consumer and B2B products — currently owning AI-powered pre-sales and growth systems at Livspace. I build side projects to stay close to the engineering decisions I make tradeoffs on: shipped a mobile game to Google Play, run an LLM automation pipeline, and train generative AI models locally. Targeting Senior PM roles in AI/ML, Ad Tech, and Enterprise SaaS.
+PM with 5 years building consumer and B2B products — currently owning AI-powered pre-sales and growth systems at Livspace. I build side projects to stay close to the engineering decisions I make tradeoffs on: shipped a mobile game to Google Play, run an LLM automation pipeline, train generative AI models locally, and built an eval-harness-first LLM product from scratch to see what "reproducible AI" actually costs in practice. Targeting Senior PM roles in AI/ML, Ad Tech, and Enterprise SaaS.
 
 ---
 
