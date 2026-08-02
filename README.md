@@ -13,6 +13,7 @@
 | 📰 | [UPSC News Digest](https://github.com/kavyabarnadhya/upsc-news-digest) | Daily AI-curated news digest · 21 articles/day · last run <!-- STATS:upsc-last-run -->2026-08-01<!-- /STATS:upsc-last-run --> | Python · Groq LLaMA 3.3 70B · GitHub Actions | Live |
 | 🎛️ | [Hiver Macros](https://github.com/kavyabarnadhya/hiver-macros) | PM assignment prototype — shared-inbox macro automation with bulk triage, agent suggestions, undo, and unedited-rate analytics | React · Vite · JavaScript | [Live Demo](https://hiver-macros.vercel.app) |
 | 💳 | [Tekion Payment Link Workflow](https://github.com/kavyabarnadhya/tekion-pm-assignment) | PM assignment prototype — dealership payment link orchestration, built and tested end-to-end in Make.com | Make.com · Webhooks · REST APIs | [Live Demo](https://tekion-payment-link-workflow.vercel.app) |
+| 📒 | [Quorum](https://github.com/kavyabarnadhya/shared-truth-ledger) | PM assignment prototype — shared-truth ledger that extracts claims from Slack/Gmail and detects contradictions between live team beliefs, not just meeting notes | Next.js · TypeScript · LLM Eval Harness | [Live Demo](https://shared-truth-ledger.vercel.app) |
 
 ---
 
