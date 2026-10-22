@@ -1,6 +1,6 @@
 # Kavya Barnadhya Hazarika
 
-**Product Manager II · Livspace** — I spec products by day and ship them by night.
+**Product Manager · Delasoft Inc.** — I spec products by day and ship them by night.
 
 ---
 
