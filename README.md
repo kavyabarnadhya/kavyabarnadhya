@@ -14,6 +14,7 @@
 | 🎛️ | [Hiver Macros](https://github.com/kavyabarnadhya/hiver-macros) | PM assignment prototype — shared-inbox macro automation with bulk triage, agent suggestions, undo, and unedited-rate analytics | React · Vite · JavaScript | [Live Demo](https://hiver-macros.vercel.app) |
 | 💳 | [Tekion Payment Link Workflow](https://github.com/kavyabarnadhya/tekion-pm-assignment) | PM assignment prototype — dealership payment link orchestration, built and tested end-to-end in Make.com | Make.com · Webhooks · REST APIs | [Live Demo](https://tekion-payment-link-workflow.vercel.app) |
 | 📒 | [Quorum](https://github.com/kavyabarnadhya/shared-truth-ledger) | PM assignment prototype — shared-truth ledger that extracts claims from Slack/Gmail and detects contradictions between live team beliefs, not just meeting notes | Next.js · TypeScript · LLM Eval Harness | [Live Demo](https://shared-truth-ledger.vercel.app) |
+| 🧭 | [Multi-Model Harness](https://github.com/kavyabarnadhya/multi-model-harness) | Claude Code as lead agent, delegating code review, large-context reading and isolated coding to Gemini (Antigravity CLI) and Grok Build on consumer subscriptions — quota-aware fallbacks, no API billing, path-scoped git-worktree edits | Bash · Claude Code · Gemini · Grok · Git | Open source |
 
 ---
 
@@ -45,7 +46,7 @@
 
 ## About
 
-PM with 5 years building consumer and B2B products — currently owning AI-powered pre-sales and growth systems at Livspace. I build side projects to stay close to the engineering decisions I make tradeoffs on: shipped a mobile game to Google Play, run an LLM automation pipeline, train generative AI models locally, and built an eval-harness-first LLM product from scratch to see what "reproducible AI" actually costs in practice. Targeting Senior PM roles in AI/ML, Ad Tech, and Enterprise SaaS.
+PM with 5 years building consumer and B2B products — currently a Product Manager at Delasoft Inc., previously owning AI-powered pre-sales and growth systems at Livspace. I build side projects to stay close to the engineering decisions I make tradeoffs on: shipped a mobile game to Google Play, run an LLM automation pipeline, train generative AI models locally, built an eval-harness-first LLM product from scratch to see what "reproducible AI" actually costs in practice, and open-sourced a multi-model coding harness where Claude Code orchestrates Gemini and Grok as helper agents. Targeting Senior PM roles in AI/ML, Ad Tech, and Enterprise SaaS.
 
 ---
 
