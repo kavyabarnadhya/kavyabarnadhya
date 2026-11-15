@@ -30,15 +30,18 @@ def get_commit_count(owner, repo):
 
 
 def get_latest_tag(owner, repo):
+    # Prefer the newest tag: releases/latest can lag behind (e.g. v2.8.3 vs tag v2.9.2).
+    try:
+        data = gh_api(f"/repos/{owner}/{repo}/tags?per_page=1")
+        if data:
+            return data[0]["name"]
+    except Exception:
+        pass
     try:
         data = gh_api(f"/repos/{owner}/{repo}/releases/latest")
         return data.get("tag_name")
     except Exception:
-        try:
-            data = gh_api(f"/repos/{owner}/{repo}/tags?per_page=1")
-            return data[0]["name"] if data else None
-        except Exception:
-            return None
+        return None
 
 
 def get_last_workflow_run(owner, repo, workflow_file):
